@@ -1,2 +1,2 @@
 # mewnotescript
-MewNotesConsole is a very simple console app for managing notes and tasks!
+MewNotesConsole is a very simple console app for managing notes(similar to mewtasks!
